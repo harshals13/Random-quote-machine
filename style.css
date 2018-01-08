@@ -1,0 +1,25 @@
+body{
+  background-image:url("");
+  font-family:"Montserrat"
+}
+.box{
+  font-weight: bold;
+  display:block;
+  margin:auto;
+  width:50%;
+  height:auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding:30px;
+}
+h1{
+  padding-top:10%;
+  padding-bottom:3%;
+  color:black;
+}
+
+.quote{
+  color:red;
+}
+.author{
+  color:black;
+}
